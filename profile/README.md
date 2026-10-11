@@ -1,6 +1,6 @@
 # interventus
 
-We build and maintain open source software that people actually use.
+An open-source org being rebuilt from scratch.
 
 ## What we believe
 
