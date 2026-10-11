@@ -1,17 +1,19 @@
-# Hi there 👋
+# interventus
 
-## 🙋‍♀️ **About Us**
-Welcome to Interventus! We are a passionate community dedicated to making a positive impact on society through innovative interventions and solutions. Our organization brings together experts from various fields to tackle pressing issues and drive meaningful change.
+Open source for the agent era.
 
-## 🌈 **Contribution Guidelines**
-We believe in the power of collaboration, and we welcome contributions from individuals who share our vision. If you'd like to get involved, please follow these guidelines:
-- Fork this repository.
-- Make your contributions.
-- Submit a pull request.
-- Our team will review and merge your contributions if they align with our mission.
+We build and maintain software that people actually use — currently focused on AI agent tooling and the infrastructure around it.
 
-## 👩‍💻 **Useful Resources**
-To learn more about our projects, initiatives, and how to contribute, visit our [official website](https://www.interventus.org). You can also find detailed documentation in our [Docs Repository](https://github.com/Interventus/docs).
+## What we believe
 
-## 🍿 **Fun Facts**
-Ever wonder what fuels our team's creativity? We're big fans of popcorn for breakfast! 🍿
+- Verify empirically. A claim without a reproduction is an opinion.
+- Contribute upstream instead of reinventing the wheel.
+- Ship things we'd use ourselves, every week.
+
+## People
+
+Run by [nosmile99](https://github.com/nosmile99) — building in the open since the GPT-3 API days.
+
+## Status
+
+Early. The org is being rebuilt from scratch.
