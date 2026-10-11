@@ -1,8 +1,6 @@
 # interventus
 
-Open source for the agent era.
-
-We build and maintain software that people actually use — currently focused on AI agent tooling and the infrastructure around it.
+We build and maintain open source software that people actually use.
 
 ## What we believe
 
@@ -12,7 +10,7 @@ We build and maintain software that people actually use — currently focused on
 
 ## People
 
-Run by [nosmile99](https://github.com/nosmile99) — building in the open since the GPT-3 API days.
+Run by [nosmile99](https://github.com/nosmile99).
 
 ## Status
 
